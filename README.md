@@ -27,7 +27,7 @@
 | 製作銷貨報表 | 銷貨統計會計作業 | 
 
 ## 使用案例圖
-![Alt text]()
+![Alt text](https://github.com/0524081/0524081/blob/master/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96.jpg)
 
 ## 使用案例
 
