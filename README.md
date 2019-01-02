@@ -42,4 +42,5 @@
 ## 類別圖
 ![Alt text](https://github.com/0524081/0524081/blob/master/%E9%A1%9E%E5%88%A5%E5%9C%96.jpg)
 
-
+## 測試計畫
+![Alt text](https://github.com/0524081/0524081/blob/master/%E6%B8%AC%E8%A9%A6%E8%A8%88%E7%95%AB.jpg)
