@@ -37,10 +37,10 @@
 ![Alt text](https://github.com/0524081/0524081/blob/master/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.jpg)
 
 ## 循序圖
-![Alt text](https://github.com/0524081/0524081/blob/master/%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![Alt text]()
 
 ## 類別圖
-![Alt text](https://github.com/0524081/0524081/blob/master/%E9%A1%9E%E5%88%A5%E5%9C%96.jpg)
+![Alt text]()
 
 ## 測試計畫
 ![Alt text](https://github.com/0524081/0524081/blob/master/%E6%B8%AC%E8%A9%A6%E8%A8%88%E7%95%AB.jpg)
