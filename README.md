@@ -37,7 +37,9 @@
 ![Alt text](https://github.com/0524081/0524081/blob/master/%E7%B3%BB%E7%B5%B1%E6%B4%BB%E5%8B%95%E5%9C%96.jpg)
 
 ## 循序圖
-![Alt text]()
+![Alt text](https://github.com/0524081/0524081/blob/master/%E5%BE%AA%E5%BA%8F%E5%9C%96.jpg)
+![Alt text](https://github.com/0524081/0524081/blob/master/%E5%BE%AA%E5%BA%8F%E5%9C%96%20%E5%BA%97%E5%93%A1.jpg)
+![Alt text](https://github.com/0524081/0524081/blob/master/%E5%BA%97%E9%95%B7.jpg)
 
 ## 類別圖
 ![Alt text]()
